@@ -1,0 +1,8 @@
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.AssemblyReference.cache
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.CoreCompileInputs.cache
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\Users\Trang Ton Nguyen\Desktop\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
